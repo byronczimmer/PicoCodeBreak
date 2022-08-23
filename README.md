@@ -29,9 +29,9 @@ which have been randomly chosen by the game.
 ## User Interface
 Once the game is started, 4 LEDs will be lit up with one blinking.
 The blinking LED is the current position.
-BUTTON A:  cycle the color of the current position
-BUTTON B:  move the cursor to the next position
-BUTTON Y:  submit your guess for evaluation
+- BUTTON A:  cycle the color of the current position
+- BUTTON B:  move the cursor to the next position
+- BUTTON Y:  submit your guess for evaluation
 
 ## Evaluation
 Guess evaluation is presented as a 2x2 matrix of LEDs.
