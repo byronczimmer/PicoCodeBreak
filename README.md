@@ -35,9 +35,9 @@ The blinking LED is the current position.
 
 ## Evaluation
 Guess evaluation is presented as a 2x2 matrix of LEDs.
-GREEN:  One LED has the correct color and position.
-YELLOW: One LED has the correct color but is in the wrong position.
-RED:    Any LED that does not meet the above criteria.
+- GREEN:  One LED has the correct color and position.
+- YELLOW: One LED has the correct color but is in the wrong position.
+- RED:    Any LED that does not meet the above criteria.
 
 If your guess is correct, you will get a rainbow flash on the display.
 If you run out of guesses ( filling up the display ), you will get
