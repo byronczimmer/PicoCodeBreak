@@ -1,4 +1,4 @@
-# Raspberry Pi Pico - PicoMind
+# Raspberry Pi Pico - PicoCodeBreak
 A code breaking game
 
 	Copyright 2022 Brian Carpenter
